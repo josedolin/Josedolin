@@ -1,6 +1,7 @@
 🙋🏻‍♀️ Introducing Myself
 
-![github-header-image](https://github.com/user-attachments/assets/316ab357-068e-47b0-89e0-1342771b04ad)
+![github-header-image (2)](https://github.com/user-attachments/assets/3dededc4-f1bf-4948-87f2-551181b96c18)
+
 ---
 👋 Hi there, I'm Jose Plaise a former Analyst Programmer who found a new passion in data analytics — transforming raw data into meaningful business insights
 
